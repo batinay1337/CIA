@@ -1,0 +1,280 @@
+country	iso	stanag	internet_code	domain
+"{""name"":""Afghanistan"""	AF	AF | AFG | 004	AFG	.af
+"{""name"":""Akrotiri"""	AX	- | - | -	-	-
+"{""name"":""Albania"""	AL	AL | ALB | 008	ALB	.al
+"{""name"":""Algeria"""	AG	DZ | DZA | 012	DZA	.dz
+"{""name"":""American Samoa"""	AQ	AS | ASM | 016	ASM	.as
+"{""name"":""Andorra"""	AN	AD | AND | 020	AND	.ad
+"{""name"":""Angola"""	AO	AO | AGO | 024	AGO	.ao
+"{""name"":""Anguilla"""	AV	AI | AIA | 660	AIA	.ai
+"{""name"":""Antarctica"""	AY	AQ | ATA | 010	ATA	.aq
+"{""name"":""Antigua and Barbuda"""	AC	AG | ATG | 028	ATG	.ag
+"{""name"":""Argentina"""	AR	AR | ARG | 032	ARG	.ar
+"{""name"":""Armenia"""	AM	AM | ARM | 051	ARM	.am
+"{""name"":""Aruba"""	AA	AW | ABW | 533	ABW	.aw
+"{""name"":""Ashmore and Cartier Islands"""	AT	- | - | -	AUS	-
+"{""name"":""Australia"""	AS	AU | AUS | 036	AUS	.au
+"{""name"":""Austria"""	AU	AT | AUT | 040	AUT	.at
+"{""name"":""Azerbaijan"""	AJ	AZ | AZE | 031	AZE	.az
+"{""name"":""Bahamas"	-	BF	BS | BHS | 044	BHS
+"{""name"":""Bahrain"""	BA	BH | BHR | 048	BHR	.bh
+"{""name"":""Baker Island"""	FQ	- | - | -	UMI	-
+"{""name"":""Bangladesh"""	BG	BD | BGD | 050	BGD	.bd
+"{""name"":""Barbados"""	BB	BB | BRB | 052	BRB	.bb
+"{""name"":""Bassas da India""}"	- | - | -	-	-	administered as part of French Southern and Antarctic Lands; no ISO codes assigned
+"{""name"":""Belarus"""	BO	BY | BLR | 112	BLR	.by
+"{""name"":""Belgium"""	BE	BE | BEL | 056	BEL	.be
+"{""name"":""Belize"""	BH	BZ | BLZ | 084	BLZ	.bz
+"{""name"":""Benin"""	BN	BJ | BEN | 204	BLZ	.bj
+"{""name"":""Bermuda"""	BD	BM | BMU | 060	BMU	.bm
+"{""name"":""Bhutan"""	BT	BT | BTN | 064	BTN	.bt
+"{""name"":""Bolivia"""	BL	BO | BOL | 068	BOL	.bo
+"{""name"":""Bosnia and Herzegovina"""	BK	BA | BIH | 070	BIH	.ba
+"{""name"":""Botswana"""	BC	BW | BWA | 072	BWA	.bw
+"{""name"":""Bouvet Island"""	BV	BV | BVT | 074	BVT	.bv
+"{""name"":""Brazil"""	BR	BR | BRA | 076	BRA	.br
+"{""name"":""British Indian Ocean Territory"""	IO	IO | IOT | 086	IOT	.io
+"{""name"":""British Virgin Islands"""	VI	VG | VGB | 092	VGB	.vg
+"{""name"":""Brunei"""	BX	BN | BRN | 096	BRN	.bn
+"{""name"":""Bulgaria"""	BU	BG | BGR | 100	BGR	.bg
+"{""name"":""Burkina Faso"""	UV	BF | BFA | 854	BFA	.bf
+"{""name"":""Burma"""	BM	MM | MMR | 104	BFA	.mm
+"{""name"":""Burundi"""	BY	BI | BDI | 108	BDI	.bi
+"{""name"":""Cabo Verde"""	CV	CV | CPV | 132	CPV	.cv
+"{""name"":""Cambodia"""	CB	KH | KHM | 116	KHM	.kh
+"{""name"":""Cameroon"""	CM	CM | CMR | 120	CMR	.cm
+"{""name"":""Canada"""	CA	CA | CAN | 124	CAN	.ca
+"{""name"":""Cayman Islands"""	CJ	KY | CYM | 136	CYM	.ky
+"{""name"":""Central African Republic"""	CT	CF | CAF | 140	CAF	.cf
+"{""name"":""Chad"""	CD	TD | TCD | 148	TCD	.td
+"{""name"":""Chile"""	CI	CL | CHL | 152	CHL	.cl
+"{""name"":""China"""	CH	CN | CHN | 156	CHN	.cn
+"{""name"":""Christmas Island"""	KT	CX | CXR | 162	CXR	.cx
+"{""name"":""Clipperton Island"""	IP	- | - | -	FYP	-
+"{""name"":""Cocos (Keeling) Islands"""	CK	CC | CCK | 166	AUS	.cc
+"{""name"":""Colombia"""	CO	CO | COL | 170	COL	.co
+"{""name"":""Comoros"""	CN	KM | COM | 174	COM	.km
+"{""name"":""Congo"	"path:""/the-world-factbook/countries/congo-democratic-republic-of-the/""}"	CG	CD | COD | 180	COD
+"{""name"":""Congo"	"path:""/the-world-factbook/countries/congo-republic-of-the/""}"	CF	CG | COG | 178	COG
+"{""name"":""Cook Islands"""	CW	CK | COK | 184	COK	.ck
+"{""name"":""Coral Sea Islands"""	CR	- | - | -	AUS	-
+"{""name"":""Costa Rica"""	CS	CR | CRI | 188	CRI	.cr
+"{""name"":""Cote d'Ivoire""}"	CI | CIV | 384	CIV	.ci	
+"{""name"":""Croatia"""	HR	HR | HRV | 191	HRV	.hr
+"{""name"":""Cuba"""	CU	CU | CUB | 192	CUB	.cu
+"{""name"":""Curacao"""	UC	CW | CUW | 531	-	.cw
+"{""name"":""Cyprus"""	CY	CY | CYP | 196	CYP	.cy
+"{""name"":""Czechia"""	EZ	CZ | CZE | 203	CZE	.cz
+"{""name"":""Denmark"""	DA	DK | DNK | 208	DNK	.dk
+"{""name"":""Dhekelia"""	DX	- | - | -	-	-
+"{""name"":""Djibouti"""	DJ	DJ | DJI | 262	DJI	.dj
+"{""name"":""Dominica"""	DO	DM | DMA | 212	DMA	.dm
+"{""name"":""Dominican Republic"""	DR	DO | DOM | 214	DOM	.do
+"{""name"":""Ecuador"""	EC	EC | ECU | 218	ECU	.ec
+"{""name"":""Egypt"""	EG	EG | EGY | 818	EGY	.eg
+"{""name"":""El Salvador"""	ES	SV | SLV | 222	SLV	.sv
+"{""name"":""Equatorial Guinea"""	EK	GQ | GNQ | 226	GNQ	.gq
+"{""name"":""Eritrea"""	ER	ER | ERI | 232	ERI	.er
+"{""name"":""Estonia"""	EN	EE | EST | 233	EST	.ee
+"{""name"":""Eswatini"""	WZ	SZ | SWZ | 748	SWZ	.sz
+"{""name"":""Ethiopia"""	ET	ET | ETH | 231	ETH	.et
+"{""name"":""Europa Island""}"	- | - | -	-	-	administered as part of French Southern and Antarctic Lands; no ISO codes assigned
+"{""name"":""Falkland Islands (Islas Malvinas)"""	FK	FK | FLK | 238	FLK	.fk
+"{""name"":""Faroe Islands"""	FO	FO | FRO | 234	FRO	.fo
+"{""name"":""Fiji"""	FJ	FJ | FJI | 242	FJI	.fj
+"{""name"":""Finland"""	FI	FI | FIN | 246	FIN	.fi
+"{""name"":""France"""	FR	FR | FRA | 250	FRA	.fr
+"{""name"":""France"	-	FX | FXX | 249	-	.fx
+"{""name"":""French Guiana""}"	GF | GUF | 254	GUF	.gf	
+"{""name"":""French Polynesia"""	FP	PF | PYF | 258	PYF	.pf
+"{""name"":""French Southern and Antarctic Lands"""	FS	TF | ATF | 260	ATF	.tf
+"{""name"":""Gabon"""	GB	GA | GAB | 266	GAB	.ga
+"{""name"":""Gambia"	"path:""/the-world-factbook/countries/gambia-the/""}"	GA | GM | GMB | 270	GMB	.gm
+"{""name"":""Gaza Strip"""	GZ	PS | PSE | 275	PSE	.ps
+"{""name"":""Georgia"""	GG	GE | GEO | 268	GEO	.ge
+"{""name"":""Germany"""	GM	DE | DEU | 276	DEU	.de
+"{""name"":""Ghana"""	GH	GH | GHA | 288	GHA	.gh
+"{""name"":""Gibraltar"""	GI	GI | GIB | 292	GIB	.gi
+"{""name"":""Glorioso Islands""}"	- | - | -	-	-	administered as part of French Southern and Antarctic Lands; no ISO codes assigned
+"{""name"":""Greece"""	GR	GR | GRC | 300	GRC	.gr
+"{""name"":""Greenland"""	GL	GL | GRL | 304	GRL	.gl
+"{""name"":""Grenada"""	GJ	GD | GRD | 308	GRD	.gd
+"{""name"":""Guadeloupe""}"	GP | GLP | 312	GLP	.gp	
+"{""name"":""Guam"""	GQ	GU | GUM | 316	GUM	.gu
+"{""name"":""Guatemala"""	GT	GT | GTM | 320	GTM	.gt
+"{""name"":""Guernsey"""	GK	GG | GGY | 831	UK	.gg
+"{""name"":""Guinea"""	GV	GN | GIN | 324	GIN	.gn
+"{""name"":""Guinea-Bissau"""	PU	GW | GNB | 624	GNB	.gw
+"{""name"":""Guyana"""	GY	GY | GUY | 328	GUY	.gy
+"{""name"":""Haiti"""	HA	HT | HTI | 332	HTI	.ht
+"{""name"":""Heard Island and McDonald Islands"""	HM	HM | HMD | 334	HMD	.hm
+"{""name"":""Holy See (Vatican City)"""	VT	VA | VAT | 336	VAT	.va
+"{""name"":""Honduras"""	HO	HN | HND | 340	HND	.hn
+"{""name"":""Hong Kong"""	HK	HK | HKG | 344	HKG	.hk
+"{""name"":""Howland Island"""	HQ	- | - | -	UMI	-
+"{""name"":""Hungary"""	HU	HU | HUN | 348	HUN	.hu
+"{""name"":""Iceland"""	IC	IS | ISL | 352	ISL	.is
+"{""name"":""India"""	IN	IN | IND | 356	IND	.in
+"{""name"":""Indonesia"""	ID	ID | IDN | 360	IDN	.id
+"{""name"":""Iran"""	IR	IR | IRN | 364	IRN	.ir
+"{""name"":""Iraq"""	IZ	IQ | IRQ | 368	IRQ	.iq
+"{""name"":""Ireland"""	EI	IE | IRL | 372	IRL	.ie
+"{""name"":""Isle of Man"""	IM	IM | IMN | 833	UK	.im
+"{""name"":""Israel"""	IS	IL | ISR | 376	ISR	.il
+"{""name"":""Italy"""	IT	IT | ITA | 380	ITA	.it
+"{""name"":""Jamaica"""	JM	JM | JAM | 388	JAM	.jm
+"{""name"":""Jan Mayen"""	JN	- | - | -	SJM	-
+"{""name"":""Japan"""	JA	JP | JPN | 392	JPN	.jp
+"{""name"":""Jarvis Island"""	DQ	- | - | -	UMI	-
+"{""name"":""Jersey"""	JE	JE | JEY | 832	UK	.je
+"{""name"":""Johnston Atoll"""	JQ	- | - | -	UMI	-
+"{""name"":""Jordan"""	JO	JO | JOR | 400	JOR	.jo
+"{""name"":""Juan de Nova Island""}"	- | - | -	-	-	administered as part of French Southern and Antarctic Lands; no ISO codes assigned
+"{""name"":""Kazakhstan"""	KZ	KZ | KAZ | 398	KAZ	.kz
+"{""name"":""Kenya"""	KE	KE | KEN | 404	KEN	.ke
+"{""name"":""Kingman Reef"""	KQ	- | - | -	UMI	-
+"{""name"":""Kiribati"""	KR	KI | KIR | 296	KIR	.ki
+"{""name"":""Korea"	"path:""/the-world-factbook/countries/korea-north/""}"	KN	KP | PRK | 408	PRK
+"{""name"":""Korea"	"path:""/the-world-factbook/countries/korea-south/""}"	KS	KR | KOR | 410	KOR
+"{""name"":""Kosovo"""	KV	XK | XKS | -	-	-
+"{""name"":""Kuwait"""	KU	KW | KWT | 414	KWT	.kw
+"{""name"":""Kyrgyzstan"""	KG	KG | KGZ | 417	KGZ	.kg
+"{""name"":""Laos"""	LA	LA | LAO | 418	LAO	.la
+"{""name"":""Latvia"""	LG	LV | LVA | 428	LVA	.lv
+"{""name"":""Lebanon"""	LE	LB | LBN | 422	LBN	.lb
+"{""name"":""Lesotho"""	LT	LS | LSO | 426	LSO	.ls
+"{""name"":""Liberia"""	LI	LR | LBR | 430	LBR	.lr
+"{""name"":""Libya"""	LY	LY | LBY | 434	LBY	.ly
+"{""name"":""Liechtenstein"""	LS	LI | LIE | 438	LIE	.li
+"{""name"":""Lithuania"""	LH	LT | LTU | 440	LTU	.lt
+"{""name"":""Luxembourg"""	LU	LU | LUX | 442	LUX	.lu
+"{""name"":""Macau"""	MC	MO | MAC | 446	MAC	.mo
+"{""name"":""Madagascar"""	MA	MG | MDG | 450	MDG	.mg
+"{""name"":""Malawi"""	MI	MW | MWI | 454	MWI	.mw
+"{""name"":""Malaysia"""	MY	MY | MYS | 458	MYS	.my
+"{""name"":""Maldives"""	MV	MV | MDV | 462	MDV	.mv
+"{""name"":""Mali"""	ML	ML | MLI | 466	MLI	.ml
+"{""name"":""Malta"""	MT	MT | MLT | 470	MLT	.mt
+"{""name"":""Marshall Islands"""	RM	MH | MHL | 584	MHL	.mh
+"{""name"":""Martinique""}"	MQ | MTQ | 474	MTQ	.mq	
+"{""name"":""Mauritania"""	MR	MR | MRT | 478	MRT	.mr
+"{""name"":""Mauritius"""	MP	MU | MUS | 480	MUS	.mu
+"{""name"":""Mayotte""}"	YT | MYT | 175	FRA	.yt	
+"{""name"":""Mexico"""	MX	MX | MEX | 484	MEX	.mx
+"{""name"":""Micronesia"	"path:""/the-world-factbook/countries/micronesia-federated-states-of/""}"	FM	FM | FSM | 583	FSM
+"{""name"":""Midway Islands"""	MQ	- | - | -	UMI	-
+"{""name"":""Moldova"""	MD	MD | MDA | 498	MDA	.md
+"{""name"":""Monaco"""	MN	MC | MCO | 492	MCO	.mc
+"{""name"":""Mongolia"""	MG	MN | MNG | 496	MNG	.mn
+"{""name"":""Montenegro"""	MJ	ME | MNE | 499	MNE	.me
+"{""name"":""Montserrat"""	MH	MS | MSR | 500	MSR	.ms
+"{""name"":""Morocco"""	MO	MA | MAR | 504	MAR	.ma
+"{""name"":""Mozambique"""	MZ	MZ | MOZ | 508	MOZ	.mz
+"{""name"":""Myanmar""}"	- | - | -	-	-	see Burma
+"{""name"":""Namibia"""	WA	NA | NAM | 516	NAM	.na
+"{""name"":""Nauru"""	NR	NR | NRU | 520	NRU	.nr
+"{""name"":""Navassa Island"""	BQ	- | - | -	UMI	-
+"{""name"":""Nepal"""	NP	NP | NPL | 524	NPL	.np
+"{""name"":""Netherlands"""	NL	NL | NLD | 528	NLD	.nl
+"{""name"":""Netherlands Antilles""}"	- | - | -	ANT	.an	disestablished in October 2010 this entity no longer exists; ISO deleted the codes in December 2010
+"{""name"":""New Caledonia"""	NC	NC | NCL | 540	NCL	.nc
+"{""name"":""New Zealand"""	NZ	NZ | NZL | 554	NZL	.nz
+"{""name"":""Nicaragua"""	NU	NI | NIC | 558	NIC	.ni
+"{""name"":""Niger"""	NG	NE | NER | 562	NER	.ne
+"{""name"":""Nigeria"""	NI	NG | NGA | 566	NGA	.ng
+"{""name"":""Niue"""	NE	NU | NIU | 570	NIU	.nu
+"{""name"":""Norfolk Island"""	NF	NF | NFK | 574	NFK	.nf
+"{""name"":""North Macedonia"""	MK	MK | MKD | 807	FYR	.mk
+"{""name"":""Northern Mariana Islands"""	CQ	MP | MNP | 580	MNP	.mp
+"{""name"":""Norway"""	NO	NO | NOR | 578	NOR	.no
+"{""name"":""Oman"""	MU	OM | OMN | 512	OMN	.om
+"{""name"":""Pakistan"""	PK	PK | PAK | 586	PAK	.pk
+"{""name"":""Palau"""	PS	PW | PLW | 585	PLW	.pw
+"{""name"":""Palmyra Atoll"""	LQ	- | - | -	UMI	-
+"{""name"":""Panama"""	PM	PA | PAN | 591	PAN	.pa
+"{""name"":""Papua New Guinea"""	PP	PG | PNG | 598	PNG	.pg
+"{""name"":""Paracel Islands"""	PF	- | - | -	-	-
+"{""name"":""Paraguay"""	PA	PY | PRY | 600	PRY	.py
+"{""name"":""Peru"""	PE	PE | PER | 604	PER	.pe
+"{""name"":""Philippines"""	RP	PH | PHL | 608	PHL	.ph
+"{""name"":""Pitcairn Islands"""	PC	PN | PCN | 612	PCN	.pn
+"{""name"":""Poland"""	PL	PL | POL | 616	POL	.pl
+"{""name"":""Portugal"""	PO	PT | PRT | 620	PRT	.pt
+"{""name"":""Puerto Rico"""	RQ	PR | PRI | 630	PRI	.pr
+"{""name"":""Qatar"""	QA	QA | QAT | 634	QAT	.qa
+"{""name"":""Reunion""}"	RE | REU | 638	REU	.re	
+"{""name"":""Romania"""	RO	RO | ROU | 642	ROU	.ro
+"{""name"":""Russia"""	RS	RU | RUS | 643	RUS	.ru
+"{""name"":""Rwanda"""	RW	RW | RWA | 646	RWA	.rw
+"{""name"":""Saint Barthelemy"""	TB	BL | BLM | 652	-	.bl
+"{""name"":""Saint Helena"	" and Tristan da Cunha"""	"path:""/the-world-factbook/countries/saint-helena-ascension-and-tristan-da-cunha/""}"	SH	SH | SHN | 654
+"{""name"":""Saint Kitts and Nevis"""	SC	KN | KNA | 659	KNA	.kn
+"{""name"":""Saint Lucia"""	ST	LC | LCA | 662	LCA	.lc
+"{""name"":""Saint Martin"""	RN	MF | MAF | 663	-	.mf
+"{""name"":""Saint Pierre and Miquelon"""	SB	PM | SPM | 666	SPM	.pm
+"{""name"":""Saint Vincent and the Grenadines"""	VC	VC | VCT | 670	VCT	.vc
+"{""name"":""Samoa"""	WS	WS | WSM | 882	WSM	.ws
+"{""name"":""San Marino"""	SM	SM | SMR | 674	SMR	.sm
+"{""name"":""Sao Tome and Principe"""	TP	ST | STP | 678	STP	.st
+"{""name"":""Saudi Arabia"""	SA	SA | SAU | 682	SAU	.sa
+"{""name"":""Senegal"""	SG	SN | SEN | 686	SEN	.sn
+"{""name"":""Serbia"""	RI	RS | SRB | 688	-	.rs
+"{""name"":""Seychelles"""	SE	SC | SYC | 690	SYC	.sc
+"{""name"":""Sierra Leone"""	SL	SL | SLE | 694	SLE	.sl
+"{""name"":""Singapore"""	SN	SG | SGP | 702	SGP	.sg
+"{""name"":""Sint Maarten"""	NN	SX | SXM | 534	-	.sx
+"{""name"":""Slovakia"""	LO	SK | SVK | 703	SVK	.sk
+"{""name"":""Slovenia"""	SI	SI | SVN | 705	SVN	.si
+"{""name"":""Solomon Islands"""	BP	SB | SLB | 090	SLB	.sb
+"{""name"":""Somalia"""	SO	SO | SOM | 706	SOM	.so
+"{""name"":""South Africa"""	SF	ZA | ZAF | 710	ZAF	.za
+"{""name"":""South Georgia and the Islands""}"	GS | SGS | 239	SGS	.gs	
+"{""name"":""South Sudan"""	OD	SS | SSD | 728	-	-
+"{""name"":""Spain"""	SP	ES | ESP | 724	ESP	.es
+"{""name"":""Spratly Islands"""	PG	- | - | -	-	-
+"{""name"":""Sri Lanka"""	CE	LK | LKA | 144	LKA	.lk
+"{""name"":""Sudan"""	SU	SD | SDN | 729	SDN	.sd
+"{""name"":""Suriname"""	NS	SR | SUR | 740	SUR	.sr
+"{""name"":""Svalbard"""	SV	SJ | SJM | 744	SJM	.sj
+"{""name"":""Sweden"""	SW	SE | SWE | 752	SWE	.se
+"{""name"":""Switzerland"""	SZ	CH | CHE | 756	CHE	.ch
+"{""name"":""Syria"""	SY	SY | SYR | 760	SYR	.sy
+"{""name"":""Taiwan"""	TW	TW | TWN | 158	TWN	.tw
+"{""name"":""Tajikistan"""	TI	TJ | TJK | 762	TJK	.tj
+"{""name"":""Tanzania"""	TZ	TZ | TZA | 834	TZA	.tz
+"{""name"":""Thailand"""	TH	TH | THA | 764	THA	.th
+"{""name"":""Timor-Leste"""	TT	TL | TLS | 626	TLS	.tl
+"{""name"":""Togo"""	TO	TG | TGO | 768	TGO	.tg
+"{""name"":""Tokelau"""	TL	TK | TKL | 772	TKL	.tk
+"{""name"":""Tonga"""	TN	TO | TON | 776	TON	.to
+"{""name"":""Trinidad and Tobago"""	TD	TT | TTO | 780	TTO	.tt
+"{""name"":""Tromelin Island""}"	- | - | -	-	-	administered as part of French Southern and Antarctic Lands; no ISO codes assigned
+"{""name"":""Tunisia"""	TS	TN | TUN | 788	TUN	.tn
+"{""name"":""Turkey"""	TU	TR | TUR | 792	TUR	.tr
+"{""name"":""Turkmenistan"""	TX	TM | TKM | 795	TKM	.tm
+"{""name"":""Turks and Caicos Islands"""	TK	TC | TCA | 796	TCA	.tc
+"{""name"":""Tuvalu"""	TV	TV | TUV | 798	TUV	.tv
+"{""name"":""Uganda"""	UG	UG | UGA | 800	UGA	.ug
+"{""name"":""Ukraine"""	UP	UA | UKR | 804	UKR	.ua
+"{""name"":""United Arab Emirates"""	AE	AE | ARE | 784	ARE	.ae
+"{""name"":""United Kingdom"""	UK	GB | GBR | 826	GBR	.uk
+"{""name"":""United States"""	US	US | USA | 840	USA	.us
+"{""name"":""United States Minor Outlying Islands""}"	UM | UMI | 581	-	.um	"ISO includes Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Palmyra Atoll, Wake Island"
+"{""name"":""Uruguay"""	UY	UY | URY | 858	URY	.uy
+"{""name"":""Uzbekistan"""	UZ	UZ | UZB | 860	UZB	.uz
+"{""name"":""Vanuatu"""	NH	VU | VUT | 548	VUT	.vu
+"{""name"":""Venezuela"""	VE	VE | VEN | 862	VEN	.ve
+"{""name"":""Vietnam"""	VM	VN | VNM | 704	VNM	.vn
+"{""name"":""Virgin Islands"""	VQ	VI | VIR | 850	VIR	.vi
+"{""name"":""Virgin Islands (UK)""}"	- | - | -	-	.vg	see British Virgin Islands
+"{""name"":""Virgin Islands (US)""}"	- | - | -	-	.vi	see Virgin Islands
+"{""name"":""Wake Island"""	WQ	- | - | -	UMI	-
+"{""name"":""Wallis and Futuna"""	WF	WF | WLF | 876	WLF	.wf
+"{""name"":""West Bank"""	WE	PS | PSE | 275	PSE	.ps
+"{""name"":""Western Sahara""}"	EH | ESH | 732	ESH	.eh	
+"{""name"":""Western Samoa""}"	- | - | -	-	.ws	see Samoa
+"{""name"":""World"""	-	- | - | -	-	-
+"{""name"":""Yemen"""	YM	YE | YEM | 887	YEM	.ye
+"{""name"":""Zaire""}"	- | - | -	-	-	see Democratic Republic of the Congo
+"{""name"":""Zambia"""	ZA	ZM | ZMB | 894	ZMB	.zm
+"{""name"":""Zimbabwe"""	ZI	ZW | ZWE | 716	ZWE	.zw
