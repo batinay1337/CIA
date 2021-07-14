@@ -76,7 +76,6 @@ eritrea
 estonia
 eswatini
 ethiopia
-european-union
 falkland-islands-islas-malvinas
 faroe-islands
 fiji
@@ -256,7 +255,6 @@ virgin-islands
 wake-island
 wallis-and-futuna
 west-bank
-world
 yemen
 zambia
 zimbabwe
